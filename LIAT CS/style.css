@@ -1,0 +1,12 @@
+li {
+  font-family: "Chela One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+body {
+
+background-image: url "WARRIORSHOMEPAGE.png";
+background-repeat: no-repeat;
+background-position: center;
+background-blend-mode: ligthen;
+}
